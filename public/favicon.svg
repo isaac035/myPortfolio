@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Black background circle -->
+  <circle cx="32" cy="32" r="32" fill="#000000"/>
+  <!-- Thin gold border ring -->
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#FFC700" stroke-width="2"/>
+  <!-- "I" letter -->
+  <text
+    x="18"
+    y="44"
+    font-family="Georgia, serif"
+    font-size="30"
+    font-weight="bold"
+    fill="#FFFFFF"
+    letter-spacing="0"
+  >I</text>
+  <!-- "P" letter in gold -->
+  <text
+    x="30"
+    y="44"
+    font-family="Georgia, serif"
+    font-size="30"
+    font-weight="bold"
+    fill="#FFC700"
+    letter-spacing="0"
+  >P</text>
+</svg>
