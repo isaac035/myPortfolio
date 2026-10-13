@@ -93,7 +93,7 @@ export default function HomePage() {
                     className="w-full h-[500px] -mt-15 shadow-4xl rounded-4xl brightness-50 blur-[0.2px] object-cover transition-transform duration-500 ease-in-out hover:scale-105 "
                   />
 
-                  <span className="w-full h-[400px] text-md font-bold font-serif  -mt-25 text-gray-600 p-12 overflow-y-auto">
+                  <span className="w-full h-[400px] text-md font-bold font-serif  -mt-25 text-gray-600 p-12 overflow-y-auto no-scrollbar">
                     Developed a full-stack Smart Travel Assistance & Management
                     System for Sri Lanka using the MERN stack (MongoDB,
                     Express.js, React, Node.js). The platform integrates
@@ -130,7 +130,7 @@ export default function HomePage() {
                     className="w-full h-[500px] -mt-15 shadow-4xl rounded-4xl brightness-50 blur-[0.2px] object-cover transition-transform duration-500 ease-in-out hover:scale-105 "
                   />
 
-                  <span className="w-full h-[400px] text-md font-bold font-serif  -mt-25 text-gray-600 p-12 overflow-y-auto">
+                  <span className="w-full h-[400px] text-md font-bold font-serif  -mt-25 text-gray-600 p-12 overflow-y-auto no-scrollbar">
                     Developed a full-stack Restaurant Management System as a
                     team project at SLIIT, built with React Native (Expo) mobile
                     frontend and Node.js / Express.js backend connected to
